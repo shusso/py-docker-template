@@ -19,7 +19,7 @@ numpy
 pandas
 pep8
 pluggy==0.6.0
-py==1.5.2
+py==1.8.0
 pyaml==17.10.0
 pycodestyle
 pyflakes
