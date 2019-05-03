@@ -20,7 +20,7 @@ pandas
 pep8
 pluggy==0.6.0
 py==1.8.0
-pyaml==17.10.0
+pyaml==17.12.1
 pycodestyle
 pyflakes
 pylint
