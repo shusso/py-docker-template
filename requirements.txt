@@ -18,7 +18,7 @@ mccabe==0.6.1
 numpy
 pandas
 pep8
-pluggy==0.6.0
+pluggy==0.9.0
 py==1.8.0
 pyaml==17.10.0
 pycodestyle
