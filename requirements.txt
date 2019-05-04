@@ -28,7 +28,7 @@ pyparsing==2.2.0
 pytest
 pytest-cov
 pytest-mock
-python-dateutil==2.6.1
+python-dateutil==2.8.0
 pytz==2017.3
 PyYAML
 requests==2.20.1
