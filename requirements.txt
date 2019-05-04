@@ -31,7 +31,7 @@ pytest-mock
 python-dateutil==2.8.0
 pytz==2017.3
 PyYAML
-requests==2.20.1
+requests==2.21.0
 scikit-learn==0.19.1
 scipy==1.0.0
 six==1.11.0
