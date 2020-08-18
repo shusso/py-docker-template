@@ -1,4 +1,4 @@
-FROM python:3.7.8-stretch AS installer
+FROM python:3.7.9-stretch AS installer
 
 WORKDIR /app
 ADD ./requirements.txt /app/
