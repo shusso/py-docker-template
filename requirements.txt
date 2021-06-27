@@ -5,7 +5,7 @@ chardet==4.0.0
 entrypoints==0.3
 flake8==3.9.2
 idna==3.2
-importlib-metadata==4.5.0
+importlib-metadata==4.6.0
 mccabe==0.6.1
 more-itertools==8.8.0
 mypy==0.910
